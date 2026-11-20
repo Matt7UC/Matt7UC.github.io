@@ -1,4 +1,19 @@
 ---
 title: "Matías Rojas"
+image:  img/me.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/matias-rojas-mu%C3%B1oz-917531347/
+    - text: GitHub
+      href: https://github.com/Matt7UC
+    - text: Email
+      href: mailto:mrojau@uc.cl
+    - text: Instagram
+      href: https://www.instagram.com/matt.nativo?knvt=bjI0ZDYwbWN1ZnJs
 ---
-Holis
+[HOLIS]
