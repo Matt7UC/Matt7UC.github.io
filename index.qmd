@@ -1,6 +1,6 @@
 ---
 title: "Matías Rojas"
-image:  img/me.jpg
+image:  img/me.jpeg
 toc: false
 about: 
   template: jolla
